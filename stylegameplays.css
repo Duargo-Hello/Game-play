@@ -1,0 +1,48 @@
+*{
+
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+}
+section video-vdf{
+
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding: 50px;
+}
+section video:hover{
+
+    width: 70%;
+
+}
+section video-vdd{
+
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding: 50px;
+}
+section video:hover{
+
+    width: 70%;
+
+}
+section video-vdw{
+
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    padding: 50px;
+}
+section video:hover{
+
+    width: 70%;
+
+} 
+body{
+
+    background-color: black;
+
+}
