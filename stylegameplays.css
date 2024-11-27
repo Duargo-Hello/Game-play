@@ -1,46 +1,24 @@
 *{
 
     margin: 0;
-    padding: 0;
+    padding: 30px;
 
     box-sizing: border-box;
 }
-section video-vdf{
+section{
 
     display: flex;
-    align-items: center;
-    justify-content:space-around;
-    padding: 50px;
+    flex-direction: column;
+    align-items: end;
+    justify-content:center;
+    padding: 10px;
+
 }
 section video:hover{
 
-    width: 70%;
+    width: 50%;
 
 }
-section video-vdd{
-
-    display: flex;
-    align-items: center;
-    justify-content:space-around;
-    padding: 50px;
-}
-section video:hover{
-
-    width: 70%;
-
-}
-section video-vdw{
-
-    display: flex;
-    align-items: center;
-    justify-content:space-around;
-    padding: 50px;
-}
-section video:hover{
-
-    width: 70%;
-
-} 
 body{
 
     background-color: black;
